@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sunilmr06/LeetCode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/sunilmr06/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 ## Counting
 |  |
