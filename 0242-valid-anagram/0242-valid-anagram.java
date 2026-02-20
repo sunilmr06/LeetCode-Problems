@@ -4,19 +4,18 @@ class Solution {
         {
             return false;
         }
-        int[] charCount = new int[26];
-        for(int i=0; i<s.length();i++)
+        int[] countChar = new int[26];
+        for(int i=0; i<s.length(); i++)
         {
-            charCount[s.charAt(i) - 'a']++;
-            charCount[t.charAt(i) - 'a']--;
+            countChar[s.charAt(i) - 'a']++;
+            countChar[t.charAt(i) - 'a']--;
         }
-        for(int count : charCount)
+        for(int count : countChar)
         {
             if(count != 0)
             {
                 return false;
             }
-
         }
         return true;
     }
