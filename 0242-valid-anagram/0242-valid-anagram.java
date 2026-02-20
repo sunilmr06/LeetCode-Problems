@@ -5,12 +5,10 @@ class Solution {
             return false;
         }
         int[] charCount = new int[26];
-
-
         for(int i=0; i<s.length();i++)
         {
-            charCount[s.charAt(i) - 'a'] ++;
-            charCount[t.charAt(i) - 'a'] --;
+            charCount[s.charAt(i) - 'a']++;
+            charCount[t.charAt(i) - 'a']--;
         }
         for(int count : charCount)
         {
@@ -18,6 +16,7 @@ class Solution {
             {
                 return false;
             }
+
         }
         return true;
     }
