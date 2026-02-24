@@ -3,16 +3,16 @@ class Solution {
         int k =0;
         int profit =0;
 
-        for (int i=1; i<prices.length; i++)
+        for(int i=1; i<prices.length; i++)
         {
-            if(prices[i] < prices[k])
+            if(prices[k] > prices[i])
             {
-                k = i;
+                k =i;
             }
             else
             {
                 int cp = prices[i] - prices[k];
-                profit = Math.max(profit,cp);
+                profit = Math.max(cp, profit);
             }
         }
         return profit;
