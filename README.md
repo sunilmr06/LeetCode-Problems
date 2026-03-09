@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/sunilmr06/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/sunilmr06/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sunilmr06/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/sunilmr06/LeetCode-Problems/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Hash Table
 |  |
 | ------- |
