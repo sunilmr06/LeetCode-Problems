@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/sunilmr06/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0680-valid-palindrome-ii](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 ## Simulation
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/sunilmr06/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
