@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/sunilmr06/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 ## Simulation
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/sunilmr06/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -172,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
