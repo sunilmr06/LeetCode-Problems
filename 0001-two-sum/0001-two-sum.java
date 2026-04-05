@@ -4,12 +4,12 @@ class Solution {
 
         for(int i=0; i<nums.length; i++)
         {
-            int conponent = target - nums[i];
-            if(map.containsKey(conponent))
+            int component = target - nums[i];
+            if(map.containsKey(component))
             {
-                return new int[] {map.get(conponent), i};
+                return new int[] {map.get(component), i};
             }
-            map.put(nums[i], i);
+            map.put(nums[i],i);
         }
         return new int[]{};
     }
