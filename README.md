@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/sunilmr06/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 ## Math
@@ -185,10 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
 | ------- |
