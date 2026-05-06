@@ -4,7 +4,7 @@ class Solution {
 
         for(char ch : s.toCharArray())
         {
-            if(ch == '(' || ch == '{' || ch == '[')
+            if(ch == '{' || ch == '(' || ch == '[')
             {
                 stack.push(ch);
             }
@@ -14,11 +14,11 @@ class Solution {
                 {
                     return false;
                 }
-                
+
                 char top = stack.pop();
 
-                if((ch == '}' && top != '{')||
-                    (ch == ')' && top != '(')||
+                if((ch == '}' && top != '{') ||
+                    (ch == ')' && top != '(') ||
                     (ch == ']' && top != '['))
                     {
                         return false;
