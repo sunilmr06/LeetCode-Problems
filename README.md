@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/sunilmr06/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
@@ -145,12 +146,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/sunilmr06/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sunilmr06/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
