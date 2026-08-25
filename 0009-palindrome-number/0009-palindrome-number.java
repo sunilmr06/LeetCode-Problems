@@ -16,7 +16,7 @@ class Solution {
         }
         if(original == rev)
         {
-            return true; 
+            return true;
         }
         return false;
     }
