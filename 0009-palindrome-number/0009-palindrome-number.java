@@ -3,7 +3,7 @@ class Solution {
         int rem,original,rev =0;
 
         if(x < 0)
-        {
+        { 
             return false;
         }
         original = x;
