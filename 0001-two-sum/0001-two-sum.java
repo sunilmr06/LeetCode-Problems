@@ -6,7 +6,7 @@ class Solution {
             int component = target - nums[i];
 
             if(map.containsKey(component)){
-                return new int[] {map.get(component), i};
+                return new int[] {map.get(component),i};
             }
             map.put(nums[i],i);
         }
