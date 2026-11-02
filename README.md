@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+| [0922-sort-array-by-parity-ii](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sunilmr06/LeetCode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/sunilmr06/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0922-sort-array-by-parity-ii](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sunilmr06/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sunilmr06/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
