@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/sunilmr06/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sunilmr06/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sunilmr06/LeetCode-Problems/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sunilmr06/LeetCode-Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sunilmr06/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sunilmr06/LeetCode-Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sunilmr06/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/sunilmr06/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sunilmr06/LeetCode-Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Two Pointers
 |  |
 | ------- |
